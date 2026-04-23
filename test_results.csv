@@ -1,0 +1,7 @@
+Model,User_Count,Throughput_Req_Sec,Avg_Latency_Sec,Total_Duration_Sec,Success_Rate
+Non-Blocking,10,4.9,2.0372,2.04,%100.0
+Non-Blocking,100,46.57,2.1267,2.15,%100.0
+Non-Blocking,500,49.14,6.1118,10.18,%100.0
+Blocking,10,0.22,24.4028,44.63,%100.0
+Blocking,100,0.33,92.8094,300.5,%63.0
+Blocking,500,1.66,10.4261,301.0,%4.2
